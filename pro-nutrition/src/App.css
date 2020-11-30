@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading-container{
+  height: 50px;
+  background-color: blueviolet;
+}
+
+.search-box{
+  margin-top: 10px;
+  margin-left: 60px;
+}

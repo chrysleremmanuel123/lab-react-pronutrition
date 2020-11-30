@@ -1,0 +1,32 @@
+img{
+    height: 100px;
+    width: 100px;
+    float:left;
+    
+  }
+.media-content{
+    overflow: hidden;
+    float: left;
+    margin-left: 50px;
+    padding: 10px;
+}
+.media-right{
+    overflow: hidden;
+    margin-left: 300px;
+    padding: 30px;
+}
+.box{
+    background-color: gray;
+    height: 120px;
+    width: 600px;
+    border: 2px solid violet;
+    margin: 40px 0px 0px 60px;
+}
+.button{
+    position: absolute;
+    margin-left: 176px;
+}
+.input{
+    position: absolute;
+    margin-bottom: -50px;
+}
